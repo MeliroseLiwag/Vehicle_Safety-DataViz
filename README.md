@@ -1,5 +1,5 @@
 # Vehicle Safety - Data Visualization
-Contributors: Gloria Gusler, Melirose Liwag, Jason Maloney, Kevin McClenahan, and Bright Soo
+### Contributors: Gloria Gusler, Melirose Liwag, Jason Maloney, Kevin McClenahan, and Bright Soo
 
 # Video Intro
 Click for a 3-minute intro video:
